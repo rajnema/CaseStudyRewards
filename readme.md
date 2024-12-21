@@ -1,10 +1,10 @@
 
 
 ## Project Title
-**CaseStudyRewards**
+**Tokens for completing real-world case studies**
 
 ## Project Description
-**CaseStudyRewards** is a decentralized application (DApp) built on the Ethereum blockchain (or any EVM-compatible blockchain) that rewards users with tokens for completing case studies. The smart contract issues a custom ERC-20 token, `CaseStudyToken (CST)`, which is awarded to users upon successfully completing a case study.
+**Tokens for completing real-world case studies** is a decentralized application (DApp) built on the Ethereum blockchain (or any EVM-compatible blockchain) that rewards users with tokens for completing case studies. The smart contract issues a custom ERC-20 token, `CaseStudyToken (CST)`, which is awarded to users upon successfully completing a case study.
 
 The system ensures users can only complete each case study once and provides transparency in the reward process through event logs.
 
